@@ -3,3 +3,5 @@
 Hello programmers.....
 
 Hibernate is a java framework.
+
+Hibernate use ORM model.
