@@ -4,4 +4,6 @@ Hello programmers.....
 
 Hibernate is a java framework.
 
-Hibernate use ORM model.
+Hibernate work on ORM model.
+
+ORM means object relationship model.
